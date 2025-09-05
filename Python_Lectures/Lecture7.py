@@ -1,0 +1,5 @@
+f = open("sample.txt", "w")
+f.write("HI Everyone!\n")
+f.write("We are learning File I/O in Python.\n")
+f.write("I like Programming in Python.")
+f.close()

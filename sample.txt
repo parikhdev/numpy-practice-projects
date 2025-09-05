@@ -1,0 +1,7 @@
+HI Everyone!
+We are learning File I/O in Python.
+Python is very powerful!
+I like Programming in Python.
+HI Everyone!
+We are learning File I/O in Python.
+I like Programming in Python.
